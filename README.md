@@ -8,5 +8,4 @@ A web-based logic game where the user tries to guess a hidden number between 1 a
 DOM Manipulation: Real-time updates to the UI (message, score, and background color) without reloading the page.
 
 State Management: Tracking the current score and persistence of the Highscore during the session.
-
 Event Handling: Implementation of "Check!" and "Again!" functionality using JavaScript Event Listeners.
